@@ -1,6 +1,3 @@
-/*Develop a Java program that implements a simple hotel room booking system using two
-  dimensional arrays. The system allows users to: View available and booked rooms, Book a
-  room by selecting a floor and room number and exit the system when finished */
 import java.util.Scanner;
 public class HotelBookingSystem {
     public static void main(String[] args) {
